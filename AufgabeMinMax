@@ -1,0 +1,4 @@
+//Min und Max Pos (★★✩✩✩) Implementieren Sie zwei Hilfsmethoden int findMinPos(int[], int, int) und int findMaxPos(int[], int, int), die für ein gegebenes, nicht leeres Array sowie einen Indexbereich in Form der linken und
+//rechten Grenze die Position des Minimums bzw. Maximums suchen und zurückliefern. Bei mehreren gleichen Werten für Minimum oder Maximum soll jeweils das erste Auftreten zurückgegeben werden. Schreiben Sie zur Ermittlung von
+//Minimum bzw. Maximum zwei Methoden int findMinByPos(int[], int, int) und int findMaxByPos(int[], int, int), die die Hilfsmethoden nutzen
+
